@@ -13,3 +13,7 @@ div#test01 {
 .important {
   color: #a00;
 }
+
+table, td, th{
+  border: 2px black solid;
+}
